@@ -1,0 +1,23 @@
+.hed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  width: 200px;
+  height: 70px;
+  font-size: large;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: space-between;
+  background-color: pink;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  position: center;
+}
